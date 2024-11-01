@@ -1,0 +1,85 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WP Translate Shortcode\n"
+"POT-Creation-Date: 2018-02-13 09:42+0900\n"
+"PO-Revision-Date: 2018-02-13 09:32+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wp-translate-shortcode.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: wp-translate-shortcode.php:60 wp-translate-shortcode.php:61
+msgid "WP Translate"
+msgstr ""
+
+#: wp-translate-shortcode.php:91
+msgid "How to Use"
+msgstr ""
+
+#: wp-translate-shortcode.php:93 wp-translate-shortcode.php:102
+msgid "Please drag and drop the link (bookmarklet) below to the bookmark bar."
+msgstr ""
+
+#: wp-translate-shortcode.php:94
+msgid ""
+"Open the web page containing the statement you want to quote in a separate "
+"tab (another window)."
+msgstr ""
+
+#: wp-translate-shortcode.php:95
+msgid "Drag the sentence you want to quote and select it."
+msgstr ""
+
+#: wp-translate-shortcode.php:96
+msgid "With the sentence selected, click on the bookmarklet to execute it."
+msgstr ""
+
+#: wp-translate-shortcode.php:97
+msgid ""
+"A short code will be displayed in the dialog box, please copy and paste it "
+"in the WordPress article."
+msgstr ""
+
+#: wp-translate-shortcode.php:100
+msgid "Bookmarklet"
+msgstr ""
+
+#: wp-translate-shortcode.php:114
+msgid "Do not use default CSS"
+msgstr ""
+
+#: wp-translate-shortcode.php:146
+msgid "Reference"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WP Translate Shortcode"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://e-joint.jp/works/wp-translate-shortcode/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "It is a WordPress plugin that makes quotation easily with Shortcode."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "e-JOINT.jp"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://e-joint.jp"
+msgstr ""

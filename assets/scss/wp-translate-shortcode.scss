@@ -1,0 +1,56 @@
+$wptr-background: #f8f8f8 !default;
+$wptr-border: 1px solid #ccc !default;
+$wptr-margin: 24px !default;
+$wptr-padding: 24px !default;
+$wptr-cite-color: #aaa !default;
+$wptr-cite-font-size: 0.8em !default;
+$wptr-original-color: #888 !default;
+$wptr-translated-color: #4d4d4d !default;
+$wptr-translated-border: 4px solid #777 !default;
+$wptr-quote-color: #ccc !default;
+$wptr-quote-position: 16px !default;
+$wptr-radius: 3px !default;
+
+.wptr{
+
+  position: relative;
+  background: $wptr-background;
+  margin: 0 0 $wptr-margin 0;
+  padding: $wptr-padding;
+  border: $wptr-border;
+  border-radius: $wptr-radius;
+
+  &__origin {
+    margin: 0;
+    padding: 0;
+    font-style: normal;
+    color: $wptr-original-color;
+    font-style: italic;
+  }
+
+  &__translated {
+    color: $wptr-translated-color;
+    border-left: $wptr-translated-border;
+    padding-left: 12px;
+    margin-top: $wptr-margin;
+    margin-bottom: 0;
+  }
+
+  &__cite {
+
+    color: $wptr-cite-color;
+    display: block;
+    font-size: $wptr-cite-font-size;
+    margin-top: $wptr-margin;
+    margin-bottom: 0;
+
+    &__cite {
+      font-style: oblique;
+      font-weight: normal;
+    }
+
+    // &__a {
+    //   color: $wptr-cite-color;
+    // }
+  }
+}
